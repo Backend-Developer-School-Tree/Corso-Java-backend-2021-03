@@ -10,6 +10,8 @@ This repo collects all the excercises produced and gathered by [Andrea Rosati](h
 | Module | Subject | Contents                                                                                      |
 |--------|---------|-------------------------------------------------------------------------------------------|
 | 1      | Java Syntax and naming   | [Esercizi](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_01) |
-| 2      | Control flow statements  ||
+| 2      | Control flow statements  | [Esercizi](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_02)|
+| 3      | Git  | [Labyrinth](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_03)|
+| 4      | OOP  | [Streaming Service](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_04/StreamingService)|
 
 <img src="assets/treelogo.png" height="75">
