@@ -9,7 +9,7 @@ Tra i più famosi possiamo citare _Netflix, Prime Video o Disney Plus_.
 
 Molti elementi che compongono questi servizi, possono essere ricondotti ad una struttura a classi tipica della programmazione ad oggetti.
 
-## :sparkles: Abbonamento Basic
+## :kick_scooter: Abbonamento Basic
 
 Sfruttando le caratteristiche della OOP, creare delle classi che simulino un servizio di streaming classico.
 Prendete ispirazione da quello che conoscete meglio e sviluppate la "libreria" più adatta a contenere tutte le informazioni.
@@ -40,14 +40,14 @@ Un esempio di alcune possibili classi (da integrare ed estendere con le informaz
 
 _**ATTENZIONE!** Una delle classi dell'esempio è astratta. Alcuni degli attributi indicati potrebbero essere ricondotti ad ulteriori classi invece che a tipi più semplici. Sfruttare anche gli enum dove possibile/sensato._
 
-## :star: Abbonamento Standard
+## :motor_scooter: Abbonamento Standard
 
 + Aggiungere la funzionalità "La mia lista" che permette all'utente di memorizzare una lista personalizzata di prodotti da guardare;
 + Aggiungere lapossiblità ad un Utente di indicare se un prodotto gli piace o meno (si può anche decidere di fare una valutazione a stelle, da 1 a 5).
 
 _**ATTENZIONE!** Valutare sempre bene in quali classi inserire le informazioni e in quale modo._
 
-## :star2: Abbonamento Premium
+## :motorcycle: Abbonamento Premium
 
 + Creare un metodo che, dato un genere (es. Azione, Horror, Commedia) o una categoria (Film, Serie TV, Documentario), restituisce una lista di prodotti di quel genere o di quella categoria;
 + Creare un metodo che, dato un Utente, ritorni una lista di altri prodotti in catalogo che potrebbero interessargli basandosi sugli elementi presenti nella sua lista e sulle sue valutazioni dei prodotti;
