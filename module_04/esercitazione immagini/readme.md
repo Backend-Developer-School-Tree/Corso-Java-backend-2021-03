@@ -109,6 +109,6 @@ Ora possedete le nozioni basi per poter lavorare con le immagini in Java e poter
 
 Esercizio | Difficoltà
 ------------ | -------------
-[256 shades of gray](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-01/tree/main/module_04/esercitazione%20immagini/256_shades_of_gray) | :kick_scooter:
-[Filtri immagine](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-01/tree/main/module_04/esercitazione%20immagini/Filtri) | :kick_scooter:
-[Green screen](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-01/tree/main/module_04/esercitazione%20immagini/Green_Screen) | :motor_scooter:
+[256 shades of gray](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_04/esercitazione%20immagini/256_shades_of_gray) | :kick_scooter:
+[Filtri immagine](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_04/esercitazione%20immagini/Filtri) | :kick_scooter:
+[Green screen](https://github.com/Backend-Developer-School-Tree/Corso-Java-backend-2021-03/tree/main/module_04/esercitazione%20immagini/Green_Screen) | :motor_scooter:
